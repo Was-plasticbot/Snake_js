@@ -1,0 +1,13 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#game_snake {
+    background-color: #000000;
+}
